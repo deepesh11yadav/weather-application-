@@ -47,7 +47,7 @@ h1 {
 }
 
 .weather-container{
-    margin-block:4rem;
+    margin-block:1rem;
     bottom: 50%;
     overflow-y: hidden;
     overflow-x: hidden;
